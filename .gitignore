@@ -1,0 +1,25 @@
+# VS Code settings and workspace files
+.vscode/
+
+# Maven build output
+/target/
+
+# Java compiled class files
+*.class
+
+# Logs
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
